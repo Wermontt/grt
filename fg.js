@@ -1,5 +1,5 @@
 let text = "";
-const today = new Date();
+const today = new Dte();
 const someday = new Date();
 someday.setFullYear(2011 , 1);
 
