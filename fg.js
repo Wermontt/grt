@@ -1,4 +1,4 @@
-let text = "";
+let text = "Fdwe";
 const today = new Dte();
 const someday = new Date();
 someday.setFullYear(1 , 10);
