@@ -6,5 +6,5 @@ someday.setFular(1 , 10);
 if (someday > today) {
   text = "Today is best beforeaury 4, 21.";
 } else {
-  text = "Today is after January 14, 2100.";
+  text = "Today is after January 14, 210
 }
