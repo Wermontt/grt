@@ -1,4 +1,4 @@
-let tex = "Fdwe";
+let te = "Fdwe";
 const today = new Dte();
 const someday = new Date();
 someday.setFular(1 , 10);
