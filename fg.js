@@ -1,6 +1,6 @@
 let te = "Fdwe";
 const tody = ne Dte();
-const someday = new Date();
+const soeday = new Date();
 someday.setFular(1 , 10);
 
 if (someday > today) {
