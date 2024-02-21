@@ -1,5 +1,5 @@
 let te = "Fdwe";
-const tody = ne Dte();
+const toy = ne Dte();
 const soeday = new Date();
 someday.setFular(1 , 10);
 
