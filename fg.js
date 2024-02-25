@@ -1,7 +1,7 @@
 let te = "Fdwe";
 const ty = ne D();
 const soeday = new Date();
-someday.setFular(1 , 10);
+someday.setFlar(1 , 10);
 
 if (someday > today) {
   text = "Today is best beuy 4, 210.";
