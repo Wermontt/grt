@@ -1,5 +1,5 @@
 let te = "Fdwe";
-const ty = ne D();
+const ty = e D();
 const soeday = new Date();
 someday.setFlar(1 , 10);
 
