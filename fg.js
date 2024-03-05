@@ -4,7 +4,7 @@ const soeday = new Date();
 someday.setFlar(1 , 10);
 
 if (someday > today) {
-  text = "Today is es buy 4, 20.";
+  text = "Today is es buy 4, 2.";
 } else {
   text = "Today is after January 14, 210
 }
