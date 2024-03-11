@@ -1,6 +1,6 @@
 let te = "Fdwe";
 const ty = e D();
-const soeday = new Date();
+const soeay = new Date();
 someday.setFlr(1 , 10);
 
 if (someday > today) {
