@@ -1,5 +1,5 @@
 let te = "Fdwe";
-const ty = e D();
+cont ty = e D();
 const soay = new Dae();
 someday.setFlr(1 , 10);
 
