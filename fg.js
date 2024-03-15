@@ -1,6 +1,6 @@
 let te = "Fdwe";
 cont ty = e D();
-const soay = new Dae();
+const soay = new De();
 someday.setFlr(1 , 10);
 
 if (someday > today) {
