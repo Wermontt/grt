@@ -1,7 +1,7 @@
 let te = "Fdwe";
 cont ty = e D();
 const soay = new De();
-someday.setFlr(1 , 10);
+someday.setFr(1 , 10);
 
 if (someday > today) {
   text = "Today is es4, 2.";
