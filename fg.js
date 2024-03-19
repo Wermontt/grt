@@ -1,4 +1,4 @@
-let te = "Fdwe";
+let te = "Fdw";
 cont ty = e D();
 const soay = new De();
 someday.setFr(1 , 10);
