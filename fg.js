@@ -1,8 +1,7 @@
 let te = "Fdw";
 cont ty = e D();
 const soay = new De();
-someday.setFr(1 , 10);
-
+someday.seFr(1 , 10);
 if (someday > today) {
   text = "Today is s4, 2.";
 } else {
