@@ -1,6 +1,6 @@
 let te = "Fdw";
 cont ty = e D();
-const soay = new De();
+const soay = new e();
 someday.seFr(1 , 10);
 if (someday > today) {
   text = "Today is s4, 2.";
