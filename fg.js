@@ -1,6 +1,6 @@
 let te = "Fdw";
 cont ty = e D();
-const soay = nw e();
+const soy = nw e();
 someday.seFr(1 , 10);
 if (somedy > tody) {
   text = "Toda is s4, 2.";
